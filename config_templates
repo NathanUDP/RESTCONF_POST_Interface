@@ -1,0 +1,12 @@
+switch_config = {
+    'user' : 'nathan.garcia92',
+    'password' : '*********',
+    'host' : 'devnetsandboxiosxe.cisco.com',
+    'port' : '443'
+}
+
+headers = {
+    'Accepted' : 'application/yang-data+json',
+    'Content-type' : 'application/yang-data+json',
+    'Authorization' : 'Basic bmF0aGFuLmdhcmNpYTkyOjJuN0tsMVJDNV85LVl0LQ=='
+}
